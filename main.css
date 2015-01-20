@@ -1,0 +1,10 @@
+ol {
+	font-family: Helvetica;
+	font-size: 1.2em;
+	width: 40%;
+}
+ol li {
+	color: #c72587;
+	margin-top: 2%;
+	border-bottom: 1px solid #cccccc;
+}
